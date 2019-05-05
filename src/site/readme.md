@@ -2,4 +2,4 @@
 
 ## Python Flask Framework
 
-![/images/task-input-ui.png]
+![UI_add_task][../images/task-input-ui.png]
