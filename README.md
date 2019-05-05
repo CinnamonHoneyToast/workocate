@@ -3,9 +3,10 @@
 ___
 
 ## What is it?
-### Workocate - Work Allocate
+**Workocate - Work Allocate** is a project that auto schedules your work throughout the day, based on your preference and priorities!
+This project is for those who have lot's on their mind, but do not have a proper time management strategy.
 
-This project auto schedules your work throughout the day, based on your preference and priorities!
+Using machine learning algorithms, this project allocates you exactly the amount of time you need to accompliash your work, considering your priorities, your ability to complete the desired task and also how badly you need to do that task.
 
 ## Techologies used:
 
