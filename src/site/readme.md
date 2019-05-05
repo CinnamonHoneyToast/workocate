@@ -8,11 +8,11 @@
 
 1. Enter the name of the task.
 2. Mark either of:
-  * a. Important
-  * b. Not Important
+>* a. Important
+>* b. Not Important
 2. Mark either of:
-  * a. Urgent
-  * b. Not Urgent
+>* a. Urgent
+>* b. Not Urgent
 3. Enter the "No. of dedicated hours" - No. of hours you dedicate to wish.
 4. Press on the "+" icon to add a new fields containing task details.
   
