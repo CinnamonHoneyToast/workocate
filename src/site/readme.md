@@ -1,5 +1,4 @@
 # User Interface
 
-## Python Flask Framework
-
-![UI_add_task] (https://github.com/workocate/workocate/blob/master/src/site/images/task-input-ui.png)
+## Python Flask Webapp
+![alt text](https://github.com/workocate/workocate/blob/master/src/site/images/task-input-ui.png "Task input UI")
