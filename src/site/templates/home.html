@@ -1,7 +1,33 @@
 <html>
 <head>
     <title> Home Page</title>
+    <h1>Enter your tasks for the day</h1>
 </head>
 <body>
+	<form>
+		<div name="main_div" style="background-color: #A03D3B; width: 600px; height: 200px; border: solid 5px black; border-radius: 30px;">
+			<div name="task_name_imput" style="margin-left: 50px;">
+				</br>
+				<span><b>Task Name:</b></span>&nbsp;&nbsp;&nbsp;&nbsp;
+				<input type="text" name="task_name" id="task_name">
+			</div>
+			<div name="add_new_task" style="float: right; margin-right: 5-px;">
+				<input type="button" name="add_task" style="border-radius: 100px; width: 50px; height: 50px; font-size: 30px; font-style: bold; cursor: hand;" value="+">
+			</div>			
+			<div name="importance_buttions" style="float: right; margin-top: 50px;">
+				<input type="radio" name="importance" value="Important" checked>Important</br>
+				<input type="radio" name="importance" value="Not Important">Not Important</br>
+			</div>
+			<div name="urgency_buttions" style="float: right; margin-top: 50px;">
+				<input type="radio" name="urgency" value="Urgent" checked>Urgent</br>
+				<input type="radio" name="urgency" value="Not Urgent">Not Urgent</br>
+			</div>
+			</br>
+			<div name="hours" style="margin-left: 50px;">
+				<span><b>No. of hours to dedicate:</b></span>&nbsp;&nbsp;&nbsp;&nbsp;
+				<input type="text" name="no_of_hours" maxlength="2" size="4">
+			</div>
+		</div>
+	</form>
 </body>
 </html>
