@@ -14,6 +14,7 @@ Using machine learning algorithms, this project allocates you exactly the amount
 1. Python
 2. HTML
 3. CSS
+4. JS
 
 ### Front end
 1. Flask
